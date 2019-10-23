@@ -26,3 +26,4 @@ RUN apt-get update -y \
 	&& wget -O subread.tar.gz https://downloads.sourceforge.net/project/subread/subread-2.0.0/subread-2.0.0-Linux-x86_64.tar.gz \
 	&& tar zxvf subread.tar.gz \
 	&& rm subread.tar.gz \
+	&& ln -sf /home/subread-2.0.0-Linux-x86_64/bin/* /usr/local/bin/
