@@ -10,4 +10,4 @@ The featurecount publication: https://academic.oup.com/bioinformatics/article/30
 
 The main website of subread package: http://subread.sourceforge.net/
 
-Dockerhub : https://hub.docker.com/r/congelos/subread
+Docker Hub : https://hub.docker.com/r/congelos/subread
